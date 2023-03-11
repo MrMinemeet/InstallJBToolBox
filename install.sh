@@ -2,7 +2,7 @@
 # Copyright (c) 2023 Alexander Voglsperger | MrMinemeet
 
 # File name for download and installation
-FILE="jetbrains-toolbox-1.27.2.13801"
+FILE="jetbrains-toolbox-1.27.3.14493"
 
 # Download file
 echo "Downloading $FILE.tar.gz"
